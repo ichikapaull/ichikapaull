@@ -1,16 +1,17 @@
-## Hi there 👋
+p4ul@arch ~]$ fetch
 
-<!--
-**ichikapaull/ichikapaull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                    -@                    paul@arch
+                   .##@                   -----------------
+                  .####@                  Username: paul
+                  @#####@                 Alias: p4ul
+                . *######@                From: Istanbul
+               .##@o@#####@                Linkedin: ilyas-dal-686b222bb
+              /############@              Instagram: ichika.paul
+             /##############@             WM: Hyprland
+            @######@**%######@            Terminal: kitty
+           @######`     %#####o           CPU: Intel i5-10300H @ 2.50GHz
+          @######@       ######%          GPU: NVIDIA GeForce GTX 1650 Ti 
+        -@#######h       ######@.`        Memory: 14526MiB / 16384MiB
+       /#####h**``       `**%@####@       
+      @H@*`                    `*%#@    
+     *`                            `*
