@@ -5,7 +5,7 @@ p4ul@arch ~]$ fetch
                   .####@                  Username: paul
                   @#####@                 Alias: p4ul
                 . *######@                From: Istanbul
-               .##@o@#####@                Linkedin: ilyas-dal-686b222bb
+               .##@o@#####@               Linkedin: ilyas-dal-686b222bb
               /############@              Instagram: ichika.paul
              /##############@             WM: Hyprland
             @######@**%######@            Terminal: kitty
