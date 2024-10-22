@@ -1,17 +1,17 @@
-p4ul@arch ~]$ fetch
+p4ul@arch ~]$ github
 
                     -@                    paul@arch
                    .##@                   -----------------
-                  .####@                  Username: paul
-                  @#####@                 Alias: p4ul
-                . *######@                From: Istanbul
-               .##@o@#####@               Linkedin: ilyas-dal-686b222bb
+                  .####@                  Username: ichikapaull
+                  @#####@                 lang: javascript, typescript, react, next.js, tailwind.css, express.js, node.js
+                . *######@                uses: vim, git, linux(arch btw) html, css 
+               .##@o@#####@               interest: old thinkpads, custom keyboards, linux rice, digital minimalism 
               /############@              Instagram: ichika.paul
              /##############@             WM: Hyprland
             @######@**%######@            Terminal: kitty
-           @######`     %#####o           CPU: Intel i5-10300H @ 2.50GHz
-          @######@       ######%          GPU: NVIDIA GeForce GTX 1650 Ti 
-        -@#######h       ######@.`        Memory: 14526MiB / 16384MiB
+           @######`     %#####o           education: Computer Science | Harvard CS50 ✅ / Dogus University CT ✍️
+          @######@       ######%          Comp: Thinkpad x61hk - | Arch Linux | hackintosh sequila | windows 11 | 
+        -@#######h       ######@.`        2024 reading target : 75 / 75
        /#####h**``       `**%@####@       
       @H@*`                    `*%#@    
      *`                            `*
