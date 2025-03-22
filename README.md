@@ -6,7 +6,7 @@ p4ul@arch ~]$ github
                   @#####@                 lang: typescript, react, next.js, tailwind.css, express.js, node.js
                 . *######@                uses: vim, git, linux(arch btw) html, css 
                .##@o@#####@               interest: old thinkpads, custom keyboards, linux rice, digital minimalism 
-              /############@              Instagram: ichika.paul
+              /############@              Linkedln: linkedin.com/in/ilyasdal
              /##############@             WM: Hyprland
             @######@**%######@            Terminal: kitty
            @######`     %#####o           education: Computer Science | Harvard CS50 ✍️ / Dogus University CT ✍️
