@@ -4,8 +4,8 @@ p4ul@arch ~]$ github
                    .##@                   -----------------
                   .####@                  Username: ichikapaull
                   @#####@                 lang: typescript, react, next.js, tailwind.css, express.js, node.js
-                . *######@                uses: vim, git, linux(arch btw) html, css 
-               .##@o@#####@               interest: old thinkpads, custom keyboards, linux rice, digital minimalism 
+                . *######@                uses: vim, git, linux(arch btw) html, css, docker, AI
+               .##@o@#####@               interest: old thinkpads, custom keyboards, linux rice, digital minimalism, AI agents 
               /############@              Linkedln: linkedin.com/in/ilyasdal
              /##############@             WM: Hyprland
             @######@**%######@            Terminal: kitty
